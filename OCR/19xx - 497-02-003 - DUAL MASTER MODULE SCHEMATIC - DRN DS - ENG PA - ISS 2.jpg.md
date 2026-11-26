@@ -34,7 +34,7 @@ Wiki page: [M497](../../../../PAGES/M497.md)
 - **Title block:** (218, 11)–(304, 61) mm: Issu IDate · Revison · WBS · WARD-BeCk byytemd · DRnLS · ENG_ · PA · M497C · DUAL MASTER MODULE · CKD: · ScHEMATiC · ApR · sca
 - **Wiring (first pass):** 72 connected wire groups from 204 runs; labelled ends: 161 mm → Ie6, R45, 30, R47; 142 mm → rss, 30, 2E6, r57; 138 mm → byytemd; 137 mm → R5R136, 30, Rs6, R5B; 104 mm → R48, 30, Rso, Rsi
 
-Every curve, box, word and wire group: [19xx - 497-02-003 - DUAL MASTER MODULE SCHEMATIC - DRN DS - ENG PA - ISS 2 (traced).json](../SCHEMATICS/19xx%20-%20497-02-003%20-%20DUAL%20MASTER%20MODULE%20SCHEMATIC%20-%20DRN%20DS%20-%20ENG%20PA%20-%20ISS%202%20(traced).json) (the CAD file: `19xx - 497-02-003 - DUAL MASTER MODULE SCHEMATIC - DRN DS - ENG PA - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 497-02-003 - DUAL MASTER MODULE SCHEMATIC - DRN DS - ENG PA - ISS 2 (traced).json](../SCHEMATICS/19xx%20-%20497-02-003%20-%20DUAL%20MASTER%20MODULE%20SCHEMATIC%20-%20DRN%20DS%20-%20ENG%20PA%20-%20ISS%202%20%28traced%29.json) (the CAD file: `19xx - 497-02-003 - DUAL MASTER MODULE SCHEMATIC - DRN DS - ENG PA - ISS 2 (traced).dxf`).
 
 ## Full text
 

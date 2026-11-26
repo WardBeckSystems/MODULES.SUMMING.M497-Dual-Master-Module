@@ -38,7 +38,7 @@ Wiki page: [M497](../../../../PAGES/M497.md)
 - **Words (OCR):** 48 in 39 lines: NOTES: · MATERIAL · 0-060 · ALUM: · ALLoY · 2 ENNSH BLACK ANoDIzE · 2-56 · 3. TeLEEAACES: · TAP · PLACES · XX · "015
 - **Title block:** (278, 14)–(432, 83) mm: ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN: GEB · ENG.GEB?/9 · HEATsiNK · CKD: · APP · SCALE · ISSUE · 2x · 497-03-007
 
-Every curve, box, word and wire group: [1989 - 497-03-007 - HEATSINK - DRN GEB - ENG GEB - ISS 1 (traced).json](../MECHANICAL/1989%20-%20497-03-007%20-%20HEATSINK%20-%20DRN%20GEB%20-%20ENG%20GEB%20-%20ISS%201%20(traced).json) (the CAD file: `1989 - 497-03-007 - HEATSINK - DRN GEB - ENG GEB - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1989 - 497-03-007 - HEATSINK - DRN GEB - ENG GEB - ISS 1 (traced).json](../MECHANICAL/1989%20-%20497-03-007%20-%20HEATSINK%20-%20DRN%20GEB%20-%20ENG%20GEB%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1989 - 497-03-007 - HEATSINK - DRN GEB - ENG GEB - ISS 1 (traced).dxf`).
 
 ## Full text
 

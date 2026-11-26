@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (266, 40)–(432, 108) mm: DISTRIBUTION · (ISSUEI DATE · REVISION · APP · WBS · WARD-BECK SYSTEMS · DRN. JRG 02/87 · ENG. Aea · INPUT · CHANNEL · CKD: · SCHEMA TIC · APP_ · SCALE DISC NO: 130 · ISSUE · CODE: 600S01 · 600-02-001
 - **Wiring (first pass):** 93 connected wire groups from 304 runs; labelled ends: 600 mm → SUMMING, BUSES, P1-1,2, INPUT CHANNEL; 580 mm → INPUT CHANNEL, P2_3.C_, TB1, P2-1A; 58 mm → 9-10, PINS 11-12; 44 mm → INPUT CHANNEL, P1-1,2, P2_3.C_; 44 mm → INPUT CHANNEL, P2_3.C_, P1-1,2
 
-Every curve, box, word and wire group: [19xx - M497 - DOC - 600-02-001 - INPUT CHANNEL SCHEMA TIC (traced).json](../SCHEMATICS/19xx%20-%20M497%20-%20DOC%20-%20600-02-001%20-%20INPUT%20CHANNEL%20SCHEMA%20TIC%20(traced).json) (the CAD file: `19xx - M497 - DOC - 600-02-001 - INPUT CHANNEL SCHEMA TIC (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M497 - DOC - 600-02-001 - INPUT CHANNEL SCHEMA TIC (traced).json](../SCHEMATICS/19xx%20-%20M497%20-%20DOC%20-%20600-02-001%20-%20INPUT%20CHANNEL%20SCHEMA%20TIC%20%28traced%29.json) (the CAD file: `19xx - M497 - DOC - 600-02-001 - INPUT CHANNEL SCHEMA TIC (traced).dxf`).
 
 ## Full text
 

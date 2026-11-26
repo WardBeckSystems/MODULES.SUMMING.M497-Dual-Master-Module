@@ -35,7 +35,7 @@ Wiki page: [M497](../../../../PAGES/M497.md)
 - **Title block:** (224, 16)–(309, 54) mm: WBS · WARD-Beck · Da TR · M4978 · ENG · TR · DUAL MASTER MOdule · SchEMATIC
 - **Wiring (first pass):** 75 connected wire groups from 373 runs; labelled ends: 159 mm → 2E6, Rsa, 45; 149 mm → RS~Z6K, 45; 123 mm → Rsi, RS~Z6K; 105 mm → DUAL MASTER MOdule, SchEMATIC, Cx); 88 mm → 22089, Rao, Ik, 2K
 
-Every curve, box, word and wire group: [19xx - 497-02-002 - DUAL MASTER MODULE SCHEMATIC - DRN TR - ENG TR - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20497-02-002%20-%20DUAL%20MASTER%20MODULE%20SCHEMATIC%20-%20DRN%20TR%20-%20ENG%20TR%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 497-02-002 - DUAL MASTER MODULE SCHEMATIC - DRN TR - ENG TR - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 497-02-002 - DUAL MASTER MODULE SCHEMATIC - DRN TR - ENG TR - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20497-02-002%20-%20DUAL%20MASTER%20MODULE%20SCHEMATIC%20-%20DRN%20TR%20-%20ENG%20TR%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 497-02-002 - DUAL MASTER MODULE SCHEMATIC - DRN TR - ENG TR - ISS 1 (traced).dxf`).
 
 ## Full text
 

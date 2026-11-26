@@ -35,7 +35,7 @@ Wiki page: [M497](../../../../PAGES/M497.md)
 - **Title block:** (233, 25)–(313, 58) mm: IssuDate · WBS · WARD-Duck · Maw · Ma97d
 - **Wiring (first pass):** 74 connected wire groups from 262 runs; labelled ends: 94 mm → WBS, Maw; 46 mm → 2E2; 36 mm → 235, 3k, Iei; 33 mm → 2k; 33 mm → IEZ
 
-Every curve, box, word and wire group: [19xx - 497-02-004 - DUAL MASTER MODULE SCHEMATIC - DRN MRW - ENG MRW - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20497-02-004%20-%20DUAL%20MASTER%20MODULE%20SCHEMATIC%20-%20DRN%20MRW%20-%20ENG%20MRW%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 497-02-004 - DUAL MASTER MODULE SCHEMATIC - DRN MRW - ENG MRW - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 497-02-004 - DUAL MASTER MODULE SCHEMATIC - DRN MRW - ENG MRW - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20497-02-004%20-%20DUAL%20MASTER%20MODULE%20SCHEMATIC%20-%20DRN%20MRW%20-%20ENG%20MRW%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 497-02-004 - DUAL MASTER MODULE SCHEMATIC - DRN MRW - ENG MRW - ISS 1 (traced).dxf`).
 
 ## Full text
 

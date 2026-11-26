@@ -32,7 +32,7 @@ M497D dual master module functional diagram, cropped.
 - **Title block:** (204, 44)–(326, 68) mm: WBS · WARD-BECK SYSTEMS · M497D
 - **Wiring (first pass):** 55 connected wire groups from 110 runs; labelled ends: 44 mm → OUTPUTS; 30 mm → OUTPUTS, LEFT; 24 mm → PROGRAM; 24 mm → PROGRAM; 24 mm → 8-109E
 
-Every curve, box, word and wire group: [19xx - 497-01-005 - DUAL MASTER MODULE FUNCTIONAL DIAGRAM - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20497-01-005%20-%20DUAL%20MASTER%20MODULE%20FUNCTIONAL%20DIAGRAM%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 497-01-005 - DUAL MASTER MODULE FUNCTIONAL DIAGRAM - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 497-01-005 - DUAL MASTER MODULE FUNCTIONAL DIAGRAM - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20497-01-005%20-%20DUAL%20MASTER%20MODULE%20FUNCTIONAL%20DIAGRAM%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 497-01-005 - DUAL MASTER MODULE FUNCTIONAL DIAGRAM - ISS 1 (traced).dxf`).
 
 ## Full text
 

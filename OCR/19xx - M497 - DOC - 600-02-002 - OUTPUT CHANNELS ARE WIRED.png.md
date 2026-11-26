@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (265, 36)–(432, 104) mm: [11, · 87 MODIFIED PROGRAM OUTPUTS · ISSUE DATE · REVISION · APP · WBS · WARD-BECK SYSTEMS · DRN: JRG 02/87 · ENG, · STEREO OUTPUT CHANNEL · CKD_ · SCHEMATIC · APP_ · SCALE DISC NO: 130 · 600-02-002 ·
 - **Wiring (first pass):** 26 connected wire groups from 215 runs; labelled ends: 529 mm → QUTPUT CHANNEL, 12N, 52,53, 55,56; 386 mm → 1-L, PROGRAM, LEFT, INSERT; 134 mm → SCALE, DISC NO: 130, CODE: 600502; 76 mm → PROGRAM, QUTPUT CHANNEL; 72 mm → QUTPUT CHANNEL, 12N, 1B2, 49,50
 
-Every curve, box, word and wire group: [19xx - M497 - DOC - 600-02-002 - OUTPUT CHANNELS ARE WIRED (traced).json](../SCHEMATICS/19xx%20-%20M497%20-%20DOC%20-%20600-02-002%20-%20OUTPUT%20CHANNELS%20ARE%20WIRED%20(traced).json) (the CAD file: `19xx - M497 - DOC - 600-02-002 - OUTPUT CHANNELS ARE WIRED (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M497 - DOC - 600-02-002 - OUTPUT CHANNELS ARE WIRED (traced).json](../SCHEMATICS/19xx%20-%20M497%20-%20DOC%20-%20600-02-002%20-%20OUTPUT%20CHANNELS%20ARE%20WIRED%20%28traced%29.json) (the CAD file: `19xx - M497 - DOC - 600-02-002 - OUTPUT CHANNELS ARE WIRED (traced).dxf`).
 
 ## Full text
 
