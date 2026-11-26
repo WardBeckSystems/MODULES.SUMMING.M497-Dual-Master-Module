@@ -1,0 +1,51 @@
+{
+ "drawing": "Modules/SUMMING/M497/MANUALS/1978 - M497 - Dual-Master-Module (2).pdf",
+ "page": 2,
+ "version": 1,
+ "trace": "_traces/2ab4742b5d20ec8d-p2.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1546, 2000],
+  "mm": [333.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "2", "pages": "23"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [19.9, 9.6, 315.6, 411.9],
+ "outlines": {
+  "line": {"rings": 131, "straight": {"n": 2145, "mm": 4283.8}, "curved": {"n": 388, "mm": 635.1}},
+  "text": {"rings": 83, "straight": {"n": 746, "mm": 1220.2}, "curved": {"n": 109, "mm": 182.5}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 25,
+  "lines": [
+   {"mm": [113.3, 401.8, 272.0, 409.0], "text": "WARD-BECK'SYSTEMS LTD"},
+   {"mm": [39.7, 389.9, 271.2, 407.5], "text": "(VVElS] 84' moGRESS AVENUE TELSPHONE: 416 /438 550"},
+   {"mm": [179.8, 395.3, 272.7, 399.4], "text": "SCARSORO....IGH CJf'iTARIO M1H 2X4"},
+   {"mm": [113.3, 389.9, 128.9, 393.8], "text": "TELEX"},
+   {"mm": [133.4, 389.7, 143.6, 394.0], "text": "De5"},
+   {"mm": [157.4, 389.7, 163.9, 394.0], "text": "aB"},
+   {"mm": [140.6, 239.9, 182.4, 250.7], "text": "M497"},
+   {"mm": [118.1, 228.2, 204.9, 234.2], "text": "DUAL MASTER MODULE"},
+   {"mm": [285.2, 56.8, 305.9, 65.9], "text": "ps"},
+   {"mm": [273.8, 45.3, 295.6, 56.9], "text": "BS"},
+   {"mm": [251.5, 23.1, 270.1, 30.3], "text": "tp"},
+   {"mm": [244.4, 16.0, 265.1, 23.2], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 334 × 432 mm, 1546 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 20–316 mm across, 10–412 mm up",
+  "- **Outlines:** line 131 rings, 2,145 straight (4,284 mm) / 388 curved (635 mm); text 83 rings, 746 straight (1,220 mm) / 109 curved (182 mm)",
+  "- **Words (OCR):** 25 in 12 lines: WARD-BECK'SYSTEMS LTD · (VVElS] 84' moGRESS AVENUE TELSPHONE: 416 /438 550 · SCARSORO....IGH CJf'iTARIO M1H 2X4 · TELEX · De5 · aB · M497 · DUAL MASTER MODULE · ps · BS · tp · ht"
+ ]
+}

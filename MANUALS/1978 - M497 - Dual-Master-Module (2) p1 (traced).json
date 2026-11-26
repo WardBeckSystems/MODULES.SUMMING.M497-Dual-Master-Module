@@ -1,0 +1,58 @@
+{
+ "drawing": "Modules/SUMMING/M497/MANUALS/1978 - M497 - Dual-Master-Module (2).pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/2ab4742b5d20ec8d-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1546, 2000],
+  "mm": [333.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "23"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [4.3, 4.7, 326.9, 430.7],
+ "outlines": {
+  "line": {"rings": 69, "straight": {"n": 2316, "mm": 8690.6}, "curved": {"n": 164, "mm": 423.3}},
+  "text": {"rings": 16, "straight": {"n": 459, "mm": 1601.4}, "curved": {"n": 28, "mm": 62.0}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [228.6, 369.4, 246.1, 372.4], "w": 17.5, "h": 3.0, "from": "ring", "words": ["VVE3S"]},
+  {"mm": [227.1, 251.1, 244.6, 254.3], "w": 17.5, "h": 3.2, "from": "ring", "words": ["VVE3S"]}
+ ],
+ "text": {
+  "words": 18,
+  "lines": [
+   {"mm": [187.6, 400.9, 278.1, 420.6], "text": "VVE3S"},
+   {"mm": [187.2, 361.6, 277.6, 381.3], "text": "VVE3S"},
+   {"mm": [187.0, 322.3, 277.4, 342.0], "text": "VVE3S"},
+   {"mm": [186.3, 282.8, 276.8, 302.5], "text": "VVE3S"},
+   {"mm": [185.9, 243.3, 276.1, 263.0], "text": "VVE3S"},
+   {"mm": [185.2, 204.2, 275.7, 223.9], "text": "VVE3S"},
+   {"mm": [184.8, 165.2, 275.3, 184.8], "text": "VVE3S"},
+   {"mm": [184.4, 125.9, 274.8, 145.5], "text": "VVE3S"},
+   {"mm": [221.3, 100.8, 237.1, 108.0], "text": "H1t97"},
+   {"mm": [194.5, 90.2, 264.5, 97.9], "text": "DUAL MASTER MODULE"},
+   {"mm": [183.3, 47.3, 305.9, 67.0], "text": "VVE3S ps"},
+   {"mm": [273.8, 45.3, 295.6, 56.9], "text": "BS"},
+   {"mm": [251.5, 23.1, 270.1, 30.3], "text": "tp"},
+   {"mm": [182.7, 8.0, 272.9, 27.7], "text": "VVE3S"},
+   {"mm": [244.4, 16.0, 265.1, 23.2], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 334 × 432 mm, 1546 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 4–327 mm across, 5–431 mm up",
+  "- **Outlines:** line 69 rings, 2,316 straight (8,691 mm) / 164 curved (423 mm); text 16 rings, 459 straight (1,601 mm) / 28 curved (62.0 mm)",
+  "- **Closed boxes:** 2; named: VVE3S; VVE3S",
+  "- **Words (OCR):** 18 in 15 lines: VVE3S · VVE3S · VVE3S · VVE3S · VVE3S · VVE3S · VVE3S · VVE3S · H1t97 · DUAL MASTER MODULE · VVE3S ps · BS"
+ ]
+}

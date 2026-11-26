@@ -1,0 +1,59 @@
+{
+ "drawing": "Modules/SUMMING/M497/MANUALS/1978 - M497 - Dual-Master-Module.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/d7a4137e293cca27-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1546, 2000],
+  "mm": [333.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "23"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [4.3, 4.7, 326.9, 430.7],
+ "outlines": {
+  "line": {"rings": 30, "straight": {"n": 1573, "mm": 5545.7}, "curved": {"n": 101, "mm": 218.6}},
+  "text": {"rings": 51, "straight": {"n": 1054, "mm": 4215.1}, "curved": {"n": 86, "mm": 253.8}},
+  "tb": {"rings": 4, "straight": {"n": 137, "mm": 532.5}, "curved": {"n": 4, "mm": 11.1}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 13,
+  "lines": [
+   {"mm": [187.2, 399.8, 281.1, 424.1], "text": "WBS"},
+   {"mm": [186.8, 360.8, 280.9, 385.2], "text": "WBS"},
+   {"mm": [185.7, 321.5, 280.5, 345.9], "text": "WBS"},
+   {"mm": [185.7, 282.6, 279.8, 306.6], "text": "WBS"},
+   {"mm": [185.7, 242.0, 279.4, 267.2], "text": "WBS"},
+   {"mm": [184.6, 203.4, 278.5, 228.6], "text": "WBS"},
+   {"mm": [183.7, 163.7, 278.5, 189.6], "text": "WBS"},
+   {"mm": [183.3, 125.2, 277.9, 149.7], "text": "WBS"},
+   {"mm": [220.6, 100.4, 238.4, 108.5], "text": "M497"},
+   {"mm": [193.2, 90.7, 210.5, 97.6], "text": "DUAL"},
+   {"mm": [212.7, 90.2, 265.6, 98.6], "text": "MASTER MODULE"},
+   {"mm": [183.5, 45.6, 276.8, 71.7], "text": "WBS"},
+   {"mm": [180.5, 7.6, 275.9, 32.7], "text": "WBS"}
+  ]
+ },
+ "title_block": {
+  "mm": [173.8, 0.0, 287.9, 431.8],
+  "from": "title-block words (training set)",
+  "text": ["WBS", "WBS", "WBS", "WBS", "WBS", "WBS", "WBS", "WBS", "M497", "DUAL", "MASTER MODULE", "WBS", "WBS"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 334 × 432 mm, 1546 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 4–327 mm across, 5–431 mm up",
+  "- **Outlines:** line 30 rings, 1,573 straight (5,546 mm) / 101 curved (219 mm); text 51 rings, 1,054 straight (4,215 mm) / 86 curved (254 mm); tb 4 rings, 137 straight (532 mm) / 4 curved (11.1 mm)",
+  "- **Words (OCR):** 13 in 13 lines: WBS · WBS · WBS · WBS · WBS · WBS · WBS · WBS · M497 · DUAL · MASTER MODULE · WBS",
+  "- **Title block:** (174, 0)–(288, 432) mm: WBS · WBS · WBS · WBS · WBS · WBS · WBS · WBS · M497 · DUAL · MASTER MODULE · WBS · WBS"
+ ]
+}

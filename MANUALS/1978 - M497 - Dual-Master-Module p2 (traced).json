@@ -1,0 +1,55 @@
+{
+ "drawing": "Modules/SUMMING/M497/MANUALS/1978 - M497 - Dual-Master-Module.pdf",
+ "page": 2,
+ "version": 1,
+ "trace": "_traces/d7a4137e293cca27-p2.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1546, 2000],
+  "mm": [333.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "2", "pages": "23"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [19.9, 9.7, 302.9, 411.9],
+ "outlines": {
+  "line": {"rings": 5, "straight": {"n": 708, "mm": 2449.5}, "curved": {"n": 58, "mm": 89.0}},
+  "text": {"rings": 181, "straight": {"n": 1943, "mm": 2629.9}, "curved": {"n": 411, "mm": 674.4}},
+  "tb": {"rings": 2, "straight": {"n": 101, "mm": 287.4}, "curved": {"n": 6, "mm": 12.1}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 14,
+  "lines": [
+   {"mm": [111.6, 400.5, 272.9, 411.3], "text": "WARD-BECK SYSTEMS LTD_"},
+   {"mm": [44.3, 391.9, 271.8, 406.5], "text": "WBS 841 PROCRESS AVENUE SCARBOROUGH ONTARIO M1H 2x4"},
+   {"mm": [197.5, 389.7, 272.0, 396.2], "text": "TELEPHONE: 416/438-6550"},
+   {"mm": [111.4, 389.5, 163.2, 395.0], "text": "TELEX: 065-25399"},
+   {"mm": [139.5, 240.5, 182.7, 252.3], "text": "M497"},
+   {"mm": [140.3, 226.9, 205.5, 236.5], "text": "MASTER MODULE"},
+   {"mm": [117.0, 227.1, 137.5, 235.3], "text": "DUAL"},
+   {"mm": [72.5, 8.4, 145.3, 13.9], "text": "OESIGN AND MANUFACTURE"},
+   {"mm": [147.7, 8.9, 243.8, 14.4], "text": "Of PRCFESSIONAL AUDIO EQUIPMENT"}
+  ]
+ },
+ "title_block": {
+  "mm": [37.6, 383.2, 253.0, 419.9],
+  "from": "title-block words (training set)",
+  "text": ["WARD-BECK SYSTEMS LTD_", "WBS 841 PROCRESS AVENUE SCARBOROUGH ONTARIO M1H 2x4", "TELEPHONE: 416/438-6550", "TELEX: 065-25399"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 334 × 432 mm, 1546 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 20–303 mm across, 10–412 mm up",
+  "- **Outlines:** line 5 rings, 708 straight (2,450 mm) / 58 curved (89.0 mm); text 181 rings, 1,943 straight (2,630 mm) / 411 curved (674 mm); tb 2 rings, 101 straight (287 mm) / 6 curved (12.1 mm)",
+  "- **Words (OCR):** 14 in 9 lines: WARD-BECK SYSTEMS LTD_ · WBS 841 PROCRESS AVENUE SCARBOROUGH ONTARIO M1H 2x4 · TELEPHONE: 416/438-6550 · TELEX: 065-25399 · M497 · MASTER MODULE · DUAL · OESIGN AND MANUFACTURE · Of PRCFESSIONAL AUDIO EQUIPMENT",
+  "- **Title block:** (38, 383)–(253, 420) mm: WARD-BECK SYSTEMS LTD_ · WBS 841 PROCRESS AVENUE SCARBOROUGH ONTARIO M1H 2x4 · TELEPHONE: 416/438-6550 · TELEX: 065-25399"
+ ]
+}

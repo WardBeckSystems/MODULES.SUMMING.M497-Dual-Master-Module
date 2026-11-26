@@ -1,0 +1,61 @@
+{
+ "drawing": "Modules/SUMMING/M497/MANUALS/1978 - M497 - Dual-Master-Module (2).pdf",
+ "page": 19,
+ "version": 1,
+ "trace": "_traces/2ab4742b5d20ec8d-p19.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1546, 2000],
+  "mm": [333.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "19", "pages": "23"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [22.0, 14.9, 327.1, 427.9],
+ "outlines": {"line": {"rings": 883, "straight": {"n": 7143, "mm": 11596.9}, "curved": {"n": 1806, "mm": 2884.5}}},
+ "circles": [
+  {"c": [104.5, 96.7], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [105.1, 182.7], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [106.2, 329.0], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [89.7, 149.2], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [159.7, 108.9], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [90.8, 275.2], "r": 1.2, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.7}
+ ],
+ "boxes": [
+  {"mm": [53.3, 423.2, 58.1, 427.5], "w": 4.7, "h": 4.3, "from": "ring"},
+  {"mm": [323.4, 411.9, 327.1, 424.2], "w": 3.7, "h": 12.3, "from": "ring"},
+  {"mm": [323.4, 389.9, 327.1, 402.2], "w": 3.7, "h": 12.3, "from": "ring"},
+  {"mm": [323.2, 345.7, 327.1, 358.2], "w": 3.9, "h": 12.5, "from": "ring"},
+  {"mm": [323.0, 323.6, 327.1, 336.2], "w": 4.1, "h": 12.6, "from": "ring"},
+  {"mm": [323.0, 301.5, 327.1, 314.1], "w": 4.1, "h": 12.7, "from": "ring"},
+  {"mm": [322.6, 257.6, 327.1, 269.9], "w": 4.5, "h": 12.3, "from": "ring"},
+  {"mm": [322.3, 235.5, 327.1, 247.9], "w": 4.7, "h": 12.3, "from": "ring"},
+  {"mm": [322.1, 191.5, 327.1, 203.6], "w": 5.0, "h": 12.1, "from": "ring"},
+  {"mm": [322.0, 169.3, 327.1, 181.6], "w": 5.1, "h": 12.3, "from": "ring"}
+ ],
+ "text": {
+  "words": 4,
+  "lines": [
+   {"mm": [285.2, 56.8, 305.9, 65.9], "text": "ps"},
+   {"mm": [273.8, 45.3, 295.6, 56.9], "text": "BS"},
+   {"mm": [251.5, 23.1, 270.1, 30.3], "text": "tp"},
+   {"mm": [244.4, 16.0, 265.1, 23.2], "text": "ht"}
+  ]
+ },
+ "dots": [{"c": [187.9, 194.6], "r": 0.8, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 334 × 432 mm, 1546 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 22–327 mm across, 15–428 mm up",
+  "- **Outlines:** line 883 rings, 7,143 straight (11,597 mm) / 1,806 curved (2,884 mm)",
+  "- **Circles and arcs:** 6 circles, 0 arcs; largest r 2.1 @ (104.5, 96.7), r 2.1 @ (105.1, 182.7), r 2.1 @ (106.2, 329.0), r 1.7 @ (89.7, 149.2)",
+  "- **Closed boxes:** 10",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 4 in 4 lines: ps · BS · tp · ht"
+ ]
+}

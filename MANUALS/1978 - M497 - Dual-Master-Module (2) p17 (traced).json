@@ -1,0 +1,46 @@
+{
+ "drawing": "Modules/SUMMING/M497/MANUALS/1978 - M497 - Dual-Master-Module (2).pdf",
+ "page": 17,
+ "version": 1,
+ "trace": "_traces/2ab4742b5d20ec8d-p17.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1546, 2000],
+  "mm": [333.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "17", "pages": "23"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [22.4, 14.8, 327.3, 424.9],
+ "outlines": {"line": {"rings": 729, "straight": {"n": 6328, "mm": 9418.4}, "curved": {"n": 1530, "mm": 2322.2}}},
+ "circles": [
+  {"c": [150.0, 148.4], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [91.3, 314.3], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [{"mm": [322.6, 324.1, 327.1, 336.6], "w": 4.5, "h": 12.5, "from": "ring"}],
+ "text": {
+  "words": 4,
+  "lines": [
+   {"mm": [285.2, 56.8, 305.9, 65.9], "text": "ps"},
+   {"mm": [273.8, 45.3, 295.6, 56.9], "text": "BS"},
+   {"mm": [251.5, 23.1, 270.1, 30.3], "text": "tp"},
+   {"mm": [244.4, 16.0, 265.1, 23.2], "text": "ht"}
+  ]
+ },
+ "dots": [{"c": [278.1, 148.6], "r": 0.9, "lines": 0}, {"c": [135.4, 114.4], "r": 0.7, "lines": 0}, {"c": [135.4, 94.7], "r": 0.7, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 334 × 432 mm, 1546 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 22–327 mm across, 15–425 mm up",
+  "- **Outlines:** line 729 rings, 6,328 straight (9,418 mm) / 1,530 curved (2,322 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 1.7 @ (150.0, 148.4), r 1.6 @ (91.3, 314.3)",
+  "- **Closed boxes:** 1",
+  "- **Dots (junctions):** 3",
+  "- **Words (OCR):** 4 in 4 lines: ps · BS · tp · ht"
+ ]
+}

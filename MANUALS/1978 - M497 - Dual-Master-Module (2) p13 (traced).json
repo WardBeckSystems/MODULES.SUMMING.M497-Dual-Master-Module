@@ -1,0 +1,48 @@
+{
+ "drawing": "Modules/SUMMING/M497/MANUALS/1978 - M497 - Dual-Master-Module (2).pdf",
+ "page": 13,
+ "version": 1,
+ "trace": "_traces/2ab4742b5d20ec8d-p13.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1546, 2000],
+  "mm": [333.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "13", "pages": "23"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [4.2, 4.6, 326.9, 424.5],
+ "outlines": {
+  "line": {"rings": 72, "straight": {"n": 1138, "mm": 3078.0}, "curved": {"n": 153, "mm": 262.1}},
+  "text": {"rings": 25, "straight": {"n": 204, "mm": 293.1}, "curved": {"n": 43, "mm": 75.7}},
+  "tb": {"rings": 24, "straight": {"n": 192, "mm": 260.3}, "curved": {"n": 78, "mm": 133.9}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 11,
+  "lines": [
+   {"mm": [21.8, 410.4, 134.1, 415.7], "text": "WARD-BECK SYSTEMS LTD"},
+   {"mm": [117.0, 224.8, 199.1, 229.8], "text": "8-109 AMPLIFIER SER ES"},
+   {"mm": [285.2, 56.8, 305.9, 65.9], "text": "ps"},
+   {"mm": [273.8, 45.3, 295.6, 56.9], "text": "BS"},
+   {"mm": [251.5, 23.1, 270.1, 30.3], "text": "tp"},
+   {"mm": [244.4, 16.0, 265.1, 23.2], "text": "ht"}
+  ]
+ },
+ "title_block": {"mm": [15.1, 401.8, 122.5, 424.4], "from": "title-block words (training set)", "text": ["WARD-BECK SYSTEMS LTD"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 334 × 432 mm, 1546 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 4–327 mm across, 5–424 mm up",
+  "- **Outlines:** line 72 rings, 1,138 straight (3,078 mm) / 153 curved (262 mm); text 25 rings, 204 straight (293 mm) / 43 curved (75.7 mm); tb 24 rings, 192 straight (260 mm) / 78 curved (134 mm)",
+  "- **Words (OCR):** 11 in 6 lines: WARD-BECK SYSTEMS LTD · 8-109 AMPLIFIER SER ES · ps · BS · tp · ht",
+  "- **Title block:** (15, 402)–(122, 424) mm: WARD-BECK SYSTEMS LTD"
+ ]
+}

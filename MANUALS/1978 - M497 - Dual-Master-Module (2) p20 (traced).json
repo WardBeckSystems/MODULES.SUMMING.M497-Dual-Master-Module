@@ -1,0 +1,81 @@
+{
+ "drawing": "Modules/SUMMING/M497/MANUALS/1978 - M497 - Dual-Master-Module (2).pdf",
+ "page": 20,
+ "version": 1,
+ "trace": "_traces/2ab4742b5d20ec8d-p20.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1546, 2000],
+  "mm": [333.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "20", "pages": "23"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [4.3, 14.2, 301.6, 417.9],
+ "outlines": {
+  "line": {"rings": 113, "straight": {"n": 1610, "mm": 3995.8}, "curved": {"n": 256, "mm": 389.6}},
+  "text": {"rings": 334, "straight": {"n": 2486, "mm": 2825.1}, "curved": {"n": 687, "mm": 1073.6}},
+  "tb": {"rings": 27, "straight": {"n": 164, "mm": 225.8}, "curved": {"n": 50, "mm": 89.9}}
+ },
+ "circles": [{"c": [90.4, 139.1], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [],
+ "text": {
+  "words": 74,
+  "lines": [
+   {"mm": [20.1, 412.6, 132.8, 417.9], "text": "WARD -BECK YSTEMS LTD"},
+   {"mm": [140.8, 368.8, 178.8, 374.8], "text": "PARTS IST"},
+   {"mm": [125.7, 355.6, 201.0, 361.6], "text": "109 AM PL IF IER SERIES"},
+   {"mm": [42.7, 342.4, 57.2, 348.4], "text": "109G"},
+   {"mm": [49.2, 329.0, 65.4, 334.3], "text": "par ts"},
+   {"mm": [85.5, 329.0, 92.2, 334.3], "text": "er"},
+   {"mm": [103.6, 329.2, 112.9, 334.0], "text": "109"},
+   {"mm": [124.6, 329.0, 137.3, 334.3], "text": "cept"},
+   {"mm": [153.3, 329.2, 191.9, 334.0], "text": "not ed bel ow"},
+   {"mm": [35.6, 316.1, 51.2, 322.1], "text": "PART"},
+   {"mm": [68.0, 315.4, 106.7, 321.4], "text": "DESC IPTION"},
+   {"mm": [176.2, 315.2, 189.3, 321.2], "text": "MFG"},
+   {"mm": [224.3, 315.2, 285.9, 321.2], "text": "MFG PART NUMB ER"},
+   {"mm": [35.2, 302.7, 42.7, 308.7], "text": "C6"},
+   {"mm": [67.8, 302.5, 98.2, 307.8], "text": "Ca ac it or"},
+   {"mm": [125.9, 302.5, 133.4, 308.5], "text": "pF"},
+   {"mm": [175.7, 302.5, 183.3, 307.3], "text": "Ph"},
+   {"mm": [224.3, 301.8, 270.3, 307.8], "text": "2222-638-0947B"},
+   {"mm": [35.6, 296.0, 44.9, 301.8], "text": "Cll"},
+   {"mm": [35.6, 282.8, 46.2, 288.8], "text": "R15"},
+   {"mm": [67.8, 282.6, 89.8, 287.7], "text": "Res sto"},
+   {"mm": [104.5, 282.6, 112.7, 287.7], "text": "4W"},
+   {"mm": [128.0, 282.6, 138.0, 287.7], "text": "2K4"},
+   {"mm": [35.4, 143.6, 76.9, 148.4], "text": "WBS ecomme"},
+   {"mm": [111.0, 143.6, 211.4, 148.4], "text": "se of repl ement pa rt ma de"},
+   {"mm": [230.6, 143.6, 262.5, 148.4], "text": "he speci fi"},
+   {"mm": [35.2, 136.9, 155.2, 141.7], "text": "ma nuf acturers fo cont in ued op mu"},
+   {"mm": [182.9, 136.9, 190.4, 141.7], "text": "me"},
+   {"mm": [205.5, 136.9, 243.1, 141.7], "text": "erfor mance."},
+   {"mm": [285.2, 56.8, 305.9, 65.9], "text": "ps"},
+   {"mm": [273.8, 45.3, 295.6, 56.9], "text": "BS"},
+   {"mm": [251.5, 23.1, 270.1, 30.3], "text": "tp"},
+   {"mm": [144.2, 17.9, 163.0, 23.9], "text": "8-109-"},
+   {"mm": [244.4, 16.0, 265.1, 23.2], "text": "ht"}
+  ]
+ },
+ "title_block": {
+  "mm": [13.5, 135.0, 79.0, 426.4],
+  "from": "title-block words (training set)",
+  "text": ["WARD -BECK YSTEMS LTD", "109G", "par ts", "PART", "C6", "Cll", "R15", "Res sto", "WBS ecomme"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 334 × 432 mm, 1546 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 4–302 mm across, 14–418 mm up",
+  "- **Outlines:** line 113 rings, 1,610 straight (3,996 mm) / 256 curved (390 mm); text 334 rings, 2,486 straight (2,825 mm) / 687 curved (1,074 mm); tb 27 rings, 164 straight (226 mm) / 50 curved (89.9 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 1.7 @ (90.4, 139.1)",
+  "- **Words (OCR):** 74 in 34 lines: WARD -BECK YSTEMS LTD · PARTS IST · 109 AM PL IF IER SERIES · 109G · par ts · er · 109 · cept · not ed bel ow · PART · DESC IPTION · MFG",
+  "- **Title block:** (14, 135)–(79, 426) mm: WARD -BECK YSTEMS LTD · 109G · par ts · PART · C6 · Cll · R15 · Res sto · WBS ecomme"
+ ]
+}
