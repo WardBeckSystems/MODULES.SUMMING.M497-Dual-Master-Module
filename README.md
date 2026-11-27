@@ -1,16 +1,16 @@
-# M497 · Summing
+# M497 Dual Master Module · Summing
 
 Ward-Beck Systems M497, 1978|11. Wiki page: [M497 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M497.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 28 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 4 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 3 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 142 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 3 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 6 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 33 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 6 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 4 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 143 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 5 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 11 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 16 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -190,8 +190,8 @@ Not on Google Drive yet: `1989 - 497-03-007 - HEATSINK - DRN GEB - ENG GEB - ISS
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1xrvNp0WOHs6CsxncuCMRbW1CNLy4iHDY/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1xrvNp0WOHs6CsxncuCMRbW1CNLy4iHDY" width="240" alt="19xx - M497 - DOC - 497-02-001 - DUAL MASTER MODULE SCHEMATIC.jpg"></a><br><sub>19xx - M497 - DOC - 497-02-001 - DUAL MASTER MODULE SCHEMATIC</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1IRahFbsPHBcdvuXsdKtytXjyfr8PAlmE/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1IRahFbsPHBcdvuXsdKtytXjyfr8PAlmE" width="240" alt="19xx - M497 - DOC - 600-02-001 - INPUT CHANNEL SCHEMA TIC.png"></a><br><sub>19xx - M497 - DOC - 600-02-001 - INPUT CHANNEL SCHEMA TIC</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1qYVdoCMw_0tnSSR9HQ4a2T1bJ5mnNb9f/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1qYVdoCMw_0tnSSR9HQ4a2T1bJ5mnNb9f" width="240" alt="19xx - M497 - DOC - 600-02-002 - OUTPUT CHANNELS ARE WIRED.png"></a><br><sub>19xx - M497 - DOC - 600-02-002 - OUTPUT CHANNELS ARE WIRED</sub></td></tr>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1amsBk-uaVYY0-bMHN0mwsnVSGXnkx_U0/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1amsBk-uaVYY0-bMHN0mwsnVSGXnkx_U0" width="240" alt="19xx - M497 - DOC - 600-02-003 - WITH JUMPERS BETWEEN PINS AND BETWEEN PINS.png"></a><br><sub>19xx - M497 - DOC - 600-02-003 - WITH JUMPERS BETWEEN PINS AND BETWEEN PINS</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1xrvNp0WOHs6CsxncuCMRbW1CNLy4iHDY/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1xrvNp0WOHs6CsxncuCMRbW1CNLy4iHDY" width="240" alt="19xx - M497 - DOC - 497-02-001 - DUAL MASTER MODULE SCHEMATIC.jpg"></a><br><sub>19xx - M497 - DOC - 497-02-001 - DUAL MASTER MODULE SCHEMATIC · <a href="SCHEMATICS/19xx%20-%20M497%20-%20DOC%20-%20497-02-001%20-%20DUAL%20MASTER%20MODULE%20SCHEMATIC%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1IRahFbsPHBcdvuXsdKtytXjyfr8PAlmE/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1IRahFbsPHBcdvuXsdKtytXjyfr8PAlmE" width="240" alt="19xx - M497 - DOC - 600-02-001 - INPUT CHANNEL SCHEMA TIC.png"></a><br><sub>19xx - M497 - DOC - 600-02-001 - INPUT CHANNEL SCHEMA TIC · <a href="SCHEMATICS/19xx%20-%20M497%20-%20DOC%20-%20600-02-001%20-%20INPUT%20CHANNEL%20SCHEMA%20TIC%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1qYVdoCMw_0tnSSR9HQ4a2T1bJ5mnNb9f/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1qYVdoCMw_0tnSSR9HQ4a2T1bJ5mnNb9f" width="240" alt="19xx - M497 - DOC - 600-02-002 - OUTPUT CHANNELS ARE WIRED.png"></a><br><sub>19xx - M497 - DOC - 600-02-002 - OUTPUT CHANNELS ARE WIRED · <a href="SCHEMATICS/19xx%20-%20M497%20-%20DOC%20-%20600-02-002%20-%20OUTPUT%20CHANNELS%20ARE%20WIRED%20(EXTRACTED).svg">vectors</a></sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1amsBk-uaVYY0-bMHN0mwsnVSGXnkx_U0/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1amsBk-uaVYY0-bMHN0mwsnVSGXnkx_U0" width="240" alt="19xx - M497 - DOC - 600-02-003 - WITH JUMPERS BETWEEN PINS AND BETWEEN PINS.png"></a><br><sub>19xx - M497 - DOC - 600-02-003 - WITH JUMPERS BETWEEN PINS AND BETWEEN PINS · <a href="SCHEMATICS/19xx%20-%20M497%20-%20DOC%20-%20600-02-003%20-%20WITH%20JUMPERS%20BETWEEN%20PINS%20AND%20BETWEEN%20PINS%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
 Not on Google Drive yet: `19xx - 497-01-005 - DUAL MASTER MODULE FUNCTIONAL DIAGRAM - ISS 1.jpg`, `19xx - 497-02-002 - DUAL MASTER MODULE SCHEMATIC - DRN TR - ENG TR - ISS 1.jpg`, `19xx - 497-02-003 - DUAL MASTER MODULE SCHEMATIC - DRN DS - ENG PA - ISS 2.jpg`, `19xx - 497-02-004 - DUAL MASTER MODULE SCHEMATIC - DRN MRW - ENG MRW - ISS 1.jpg`
@@ -271,7 +271,16 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [19xx - 497-02-002 - DUAL MASTER MODULE SCHEMATIC - DRN TR - ENG TR - ISS 1.kicad_sch](KICAD/19xx%20-%20497-02-002%20-%20DUAL%20MASTER%20MODULE%20SCHEMATIC%20-%20DRN%20TR%20-%20ENG%20TR%20-%20ISS%201.kicad_sch)
 - [19xx - 497-02-003 - DUAL MASTER MODULE SCHEMATIC - DRN DS - ENG PA - ISS 2.kicad_sch](KICAD/19xx%20-%20497-02-003%20-%20DUAL%20MASTER%20MODULE%20SCHEMATIC%20-%20DRN%20DS%20-%20ENG%20PA%20-%20ISS%202.kicad_sch)
 - [19xx - 497-02-004 - DUAL MASTER MODULE SCHEMATIC - DRN MRW - ENG MRW - ISS 1.kicad_sch](KICAD/19xx%20-%20497-02-004%20-%20DUAL%20MASTER%20MODULE%20SCHEMATIC%20-%20DRN%20MRW%20-%20ENG%20MRW%20-%20ISS%201.kicad_sch)
+- [19xx - M497 - DOC - 497-02-001 - DUAL MASTER MODULE SCHEMATIC.kicad_sch](KICAD/19xx%20-%20M497%20-%20DOC%20-%20497-02-001%20-%20DUAL%20MASTER%20MODULE%20SCHEMATIC.kicad_sch)
+- [19xx - M497 - DOC - 600-02-001 - INPUT CHANNEL SCHEMA TIC.kicad_sch](KICAD/19xx%20-%20M497%20-%20DOC%20-%20600-02-001%20-%20INPUT%20CHANNEL%20SCHEMA%20TIC.kicad_sch)
+- [19xx - M497 - DOC - 600-02-002 - OUTPUT CHANNELS ARE WIRED.kicad_sch](KICAD/19xx%20-%20M497%20-%20DOC%20-%20600-02-002%20-%20OUTPUT%20CHANNELS%20ARE%20WIRED.kicad_sch)
+- [19xx - M497 - DOC - 600-02-003 - WITH JUMPERS BETWEEN PINS AND BETWEEN PINS.kicad_sch](KICAD/19xx%20-%20M497%20-%20DOC%20-%20600-02-003%20-%20WITH%20JUMPERS%20BETWEEN%20PINS%20AND%20BETWEEN%20PINS.kicad_sch)
 - [M497.kicad_sym](KICAD/M497.kicad_sym)
+- [index.html](KICAD/index.html)
+
+## Software
+
+- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
