@@ -204,51 +204,54 @@ Not on Google Drive yet: `M497 - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
-21 contacts, 21 contacts (P2). Read from the module's own documents (no RTO-144 sheet yet). Every contact, with where it was read: [`RTO.json`](RTO.json).
+Read from 1 pinout picture (each its own `.pinout.json` beside it). Every contact, with where it was read: [`RTO.json`](RTO.json). How a picture becomes this table: [the pinout decision tree](https://github.com/WardBeckSystems/WBSps.ca/blob/main/2026/Engineering/PINOUTS.md).
 
-| Pin | Signal | Kind | Pair | Confidence |
+| Pin | Signal | Kind | Port | Confidence |
 |---|---|---|---|---|
-| 1 | LEFT | other |  | variant |
-| 1 | LEFT SUM IN | in | A1 + | variant |
-| 2 | RIGHT | other |  | variant |
-| 2 | RIGHT SUM IN | in | A2 + | variant |
-| 3 | SHIELD | ground |  | variant |
-| 4 | LEFT LINE IN | in | B1 + | variant |
-| 5 | RIGHT | other |  | variant |
-| 5 | RIGHT LINE IN | in | B2 + | variant |
-| 6 | LEFT | other |  | variant |
-| 7 | RIGHT | other |  | variant |
-| 8 | LEFT | other |  | variant |
-| 9 | RIGHT | other |  | variant |
-| 10 | SHIELD | ground |  | variant |
-| 11 | MONO | other |  | variant |
-| 12 | LEFT | other |  | variant |
-| 12 | OUT LEFT | out | A3 + | variant |
-| 13 | LEFT | other |  | variant |
-| 14 | LEFT | other |  | variant |
-| 14 | VU OUT LEFT | out | B3 + | variant |
-| 15 | RIGHT | other |  | variant |
-| 15 | OUT RIGHT | out | A4 + | variant |
-| 16 | RIGHT | other |  | variant |
-| 17 | RIGHT | other |  | variant |
-| 17 | VU OUT RIGHT | out | B4 + | variant |
-| 18 | NC | nc |  | variant |
-| 19 | 25V | other |  | variant |
-| 19 | -25 V | power |  | variant |
-| 20 | 25V | other |  | variant |
-| 20 | COMMON | ground |  | variant |
-| 21 | +25V | power |  | variant |
-| 21 | +25 V | power |  | variant |
-| A | RIGHT OUT | out |  | variant |
-| A | LEFT SUM IN | in | A1 - | variant |
-| B | RIGHT OUT | out |  | variant |
-| B | RIGHT SUM IN | in | A2 - | variant |
-| D | LEFT LINE IN | in | B1 - | variant |
-| E | RIGHT LINE IN | in | B2 - | variant |
-| N | OUT LEFT | out | A3 - | variant |
-| R | VU OUT LEFT | out | B3 - | variant |
-| S | OUT RIGHT | out | A4 - | variant |
-| U | VU OUT RIGHT | out | B4 - | variant |
+| 1 | LEFT SUM IN | in | SUM IN L | high |
+| 2 | RIGHT SUM IN | in | SUM IN R | high |
+| 3 | SHIELD | shield | shield | high |
+| 4 | LEFT EXT IN | in | EXT IN L | high |
+| 5 | RIGHT EXT IN | in | EXT IN R | high |
+| 6 | LEFT PRE OUT | out | PRE OUT L | high |
+| 7 | RIGHT PRE OUT | out | PRE OUT R | high |
+| 8 | LEFT LEV CTL IN | control_in | LEV CTL IN L | high |
+| 9 | RIGHT LEV CTL IN | control_in | LEV CTL IN R | high |
+| 10 | SHIELD | shield | shield | high |
+| 11 | MONO OUT | out | MONO OUT | high |
+| 12 | LEFT OUT 1 | out | OUT 1 L | high |
+| 13 | LEFT OUT 2 | out | OUT 2 L | high |
+| 14 | LEFT MON OUT | out | MON OUT L | high |
+| 15 | RIGHT OUT 1 | out | OUT 1 R | high |
+| 16 | RIGHT OUT 2 | out | OUT 2 R | high |
+| 17 | RIGHT MON OUT | out | MON OUT R | high |
+| 18 | N/C | nc |  | high |
+| 19 | -25 V | power |  | high |
+| 20 | 25 V COMMON | ground |  | high |
+| 21 | +25 V | power |  | high |
+| 22 | CHASSIS | ground |  | high |
+| A | LEFT SUM IN | in | SUM IN L | high |
+| B | RIGHT SUM IN | in | SUM IN R | high |
+| C | SHIELD | shield | shield | high |
+| D | LEFT EXT IN | in | EXT IN L | high |
+| E | RIGHT EXT IN | in | EXT IN R | high |
+| F | LEFT PRE OUT | out | PRE OUT L | high |
+| H | RIGHT PRE OUT | out | PRE OUT R | high |
+| J | LEFT LEV CTL IN | control_in | LEV CTL IN L | high |
+| K | RIGHT LEV CTL IN | control_in | LEV CTL IN R | high |
+| L | SHIELD | shield | shield | high |
+| M | MONO OUT | out | MONO OUT | high |
+| N | LEFT OUT 1 | out | OUT 1 L | high |
+| P | LEFT OUT 2 | out | OUT 2 L | high |
+| R | LEFT MON OUT | out | MON OUT L | high |
+| S | RIGHT OUT 1 | out | OUT 1 R | high |
+| T | RIGHT OUT 2 | out | OUT 2 R | high |
+| U | RIGHT MON OUT | out | MON OUT R | high |
+| V | N/C | nc |  | high |
+| W | N/C | nc |  | high |
+| X | N/C | nc |  | high |
+| Y | N/C | nc |  | high |
+| Z | N/C | nc |  | high |
 
 ## Manuals and documents
 
