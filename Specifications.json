@@ -1,0 +1,188 @@
+{
+ "module": "M497",
+ "title": "M497 DUAL MASTER MODULE",
+ "source": {
+  "file": "MANUALS/1978 - M497 - Dual-Master-Module.pdf",
+  "page": 5
+ },
+ "ocr_quality": 0.86,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Gain",
+   "key": "gain",
+   "text": "",
+   "items": [
+    {
+     "name": "Frequency response",
+     "text": "+0 -1 dB from 20 Hz to 20 kHz (tailored frequency response)",
+     "quantities": [
+      {
+       "from": 0,
+       "to": 1,
+       "unit": "dB"
+      },
+      {
+       "value": 20,
+       "unit": "Hz"
+      },
+      {
+       "value": 20,
+       "unit": "kHz"
+      }
+     ],
+     "key": "frequency_response"
+    }
+   ]
+  },
+  {
+   "name": "Noise",
+   "key": "noise",
+   "text": "72 dB be ]ow +8 dBm nomina 1 output level (20 Hz to 20 kHz)",
+   "quantities": [
+    {
+     "value": 72,
+     "unit": "dB"
+    },
+    {
+     "value": 8,
+     "unit": "dBm"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Harmonic distortion",
+   "key": "harmonic_distortion",
+   "text": "Less than 0.25% THD from 30 Hz to 20 kHz at +24 dBm output or Tess Less than 0.1% at kHz at +24 dBm output",
+   "quantities": [
+    {
+     "value": 0.25,
+     "unit": "%"
+    },
+    {
+     "value": 30,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": 24,
+     "unit": "dBm"
+    },
+    {
+     "value": 0.1,
+     "unit": "%"
+    },
+    {
+     "value": 24,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Source impedances",
+   "key": "source_impedance",
+   "text": "Summing Externa 30,000 ohms, balanced 600 ohms maximum, baLanced.",
+   "quantities": [
+    {
+     "value": 30000,
+     "unit": "ohms"
+    },
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Input impedances",
+   "key": "input_impedance",
+   "text": "Summing Externa ] Less than 5 ohms. 30,000 ohms",
+   "quantities": [
+    {
+     "value": 5,
+     "unit": "ohms"
+    },
+    {
+     "value": 30000,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Input level",
+   "key": "input_level",
+   "text": "Externa]: dBm nomina ] +16 dBm maximum",
+   "quantities": [
+    {
+     "value": 16,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Output impedances",
+   "key": "output_impedance",
+   "text": "",
+   "items": [
+    {
+     "name": "Program",
+     "text": "Monitor Mono 600 ohms balanced 600 ohms; baLanced 75,000 ohms; baLanced",
+     "quantities": [
+      {
+       "value": 600,
+       "unit": "ohms"
+      },
+      {
+       "value": 600,
+       "unit": "ohms"
+      },
+      {
+       "value": 75000,
+       "unit": "ohms"
+      }
+     ],
+     "key": "program"
+    }
+   ]
+  },
+  {
+   "name": "Load impedances",
+   "key": "load_impedance",
+   "text": "",
+   "items": [
+    {
+     "name": "Program",
+     "text": "Monitor Mono 600 ohms baLanced Bridging balanced (5k ohms minimum) Summing, Tess than 5 ohms balanced",
+     "quantities": [
+      {
+       "value": 600,
+       "unit": "ohms"
+      },
+      {
+       "value": 5,
+       "unit": "ohms"
+      }
+     ],
+     "key": "program"
+    }
+   ]
+  }
+ ],
+ "also_in": [
+  {
+   "file": "MANUALS/1978 - M497 - Dual-Master-Module.pdf",
+   "page": 6
+  }
+ ]
+}

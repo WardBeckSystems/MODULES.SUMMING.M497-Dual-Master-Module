@@ -1,0 +1,105 @@
+{
+ "module": "M497",
+ "source": {
+  "file": "MANUALS/1978 - M497 - Dual-Master-Module (2).pdf",
+  "pages": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ]
+ },
+ "ocr_quality": 0.96,
+ "read": "OCR of the manual's circuit description; check against the pages",
+ "sections": [
+  {
+   "heading": null,
+   "paragraphs": [
+    "Parts List 2-1 to 2-23-1 to 3-4",
+    "I 4 Appendix 8-109 Description 8-109-1-1 to -3 I 8-109 Parts List 8-109 -2 -1 to -5",
+    "I S Drawings M49 7 Front Panel A4 97 -04-003 M49 7 Functional 8497-01 -00 1"
+   ]
+  },
+  {
+   "heading": "M49 7",
+   "paragraphs": [
+    "Schematic Component Layout 8497-02-001 8497 -06-00 1 M497 Connector Layout A4 97-04-002 I 8-109E Schematic 8-109E Component Layout 88-109 -02-00 6 88 -109-06 -006"
+   ]
+  },
+  {
+   "heading": "OCT. 1978",
+   "paragraphs": [
+    "['NBS] 841 P ROGt=lE S S AVENUE. S CARBOROl..JGH. ONTARIO M 1H axe TELEX 0 6 5 -2 5 3 9 9 TELEPHONE A 16 /4:36 -65!5 0"
+   ]
+  },
+  {
+   "heading": "WARRANTY",
+   "paragraphs": [
+    "defective material sand workman ship fora period o f one year from the date of shipment.",
+    "without charge, all said products or parts thereof which upon factory inspection prove to be defective during the warranty period, provided that:",
+    "1) the original serial numbers are intact and have not been tampered with,",
+    "2) the purchaser shall return any equipment or",
+    "after obtaining prior authorization and shipping instruct ions from the factory (Ward -Beck Systems Lto., reserves the right to inspector repair equip men ton the purchaser's premises), and",
+    "3) the purchaser assumes the obligation fora ll expenses incurred;n connection with the shipping and return of such goods, once authorization has been obtained.",
+    "This warranty does not cover items norma II y consider e d expendable, such a s fuses and lamps.",
+    "This warranty does not cover damages caused b y misuse, accident, neglect, un author i zed alteration, repair by unauthorized personnel, o r damage caused by act o f God, war, orc i v i lin su r r e c tion.",
+    "right to final determination as tot heap pl i cab i lit y of this warranty.",
+    "without notice, to make changes in its equipment, component specifications, or designs, as maybe war ranted by progress in",
+    "state o fth eart o r technology.",
+    "The warranty set forth herein i s;n lieu o fall other warranties,",
+    "expressed o r implied, including the war ran ties o f merc hantabi lit y and fitness."
+   ]
+  },
+  {
+   "heading": "M49 7 OUAL MASTER MOOULE",
+   "paragraphs": [
+    "Gain: 8 dB ±0.5 dB nominal. A trim range of +2. -6 dB is provided.",
+    "Frequency Response: +0 -1 dB from 20 Hz t o 20 kHz (tailored frequency response).",
+    "Noise: 72 dB below +B dBm nominal output level (20 Hz t o 20 kHz).",
+    "Harmonic Distortion: Less than 0.25% THD. from 30 Hz to 20 kHz at +24 dBm output or less.",
+    "Less than 0.1% at 1 kHz at +24 dBm · output.",
+    "Source Imp~dances:",
+    "Summing: 30.000 ohm~ balanced.",
+    "External: 6000hms maximum, balanced.",
+    "Input Impedances:",
+    "Summing: less than 5 oh ms..",
+    "Externa 1: 30.000 ohms.",
+    "Input Level:",
+    "Exte rna 1: a dBm nom inal~ +16 dBm maximum. Out put I mpe dances:",
+    "Program: 6000hms. balanced.",
+    "Monitor: 600 ohms. balanced.",
+    "Mono: 75.000 ohms. ba I a nced.",
+    "Load Imped ances:",
+    "Program: 6000h ms. balanced.",
+    "Monitor: Brid9in9 ~ balanced (5kohms minimum).",
+    "Mono: Summing. less than S ohms. balanced."
+   ]
+  },
+  {
+   "heading": "TECHNICAL DATA",
+   "paragraphs": [
+    "Out put Level:",
+    "Program: +8 dBm nominal, +24 dBm maximum. Monitor: +8 dBm nominal. +24 dBm maximum. Mono: +8 dBm nominal when summed into a second M4 97.",
+    "Channel Separation: 60 dB between Left and Right channels (50 Hz t o 15 kHz).",
+    "Phasing: Input and out put terminals designated by numbers are i n phase.",
+    "Power Requirements: ±25 volts d c, 50 rnA n u m t n a l, 200 rnA maximum.",
+    "Ambient Temperature: o to 60 degrees Celsius. Dimensions: 1.6\" wide X 7\" high X 6.5\" deep. (41 mm X 178 mm X 165 mm).",
+    "I CIRCUIT DESCRIPTION",
+    "I The M497 accommodates two separate signal channels. It i s designed tore c ei ve the mixed feeds from the left and right mixer buses of a console. The twos i gna l s are independently I processed and amplified to standard line levels. The outputs oft he M497 supply the main program outputs of the consoles ystem. Both channels operate ina similar manner. The I following description refers specifically t o the LEFT channel. Input I The signal or i gina ting from thee x te rna l mlxl ng network enters the module at pins I tA and;s app lied t o the summing current nodes of I I and 12.",
+    "III through Z3, with their associated components, provide ana c tively balanced input as well a s a balanced output. The output operates a t a nominal level of 0 dBm and appears at I pins 6/F.",
+    "Insert I A balanced INSERT point i s provided between pins 6/ Fan d 8/ J. permitting the insertion of a next erna l equalizer, filter orc ompr e s s or, either using an M499 insert switcher or by direct wiring.",
+    "Level Adjustment From the INSERT point, the signal is returned t o the module a t pins 8/J and fed to the 8-109 E output amplifier via ana tt e nuator network. R42 i sale vel trim potentiometer permitting adjustment of the module output level from -6 t o +2 dB with reference t o the nominal level of +8 dBm. A small hole in the module front panel allows access t o the trim control. Output The 8-109E output amplifier operates with again of 29 dB. It recovers the loss of the input network and provides additional gain t o produce a nominal line level o f +8 dBm a t the output",
+    "of the module.",
+    "A 600 ohm resist i ve dividing network. having a loss of 6 dB, is inserted between the 8-109E and the two module out puts a t",
+    "pins 12/ N and 13/ P. Each of the two outputs has ama ximum",
+    "drive ca pa bi 1i t y of +24 dBm into a 600 ohm load.",
+    "A separate MONITOR output is provided, designed to feed the M4 95 STEREO MONITOR module as well as to drive a standard VU meter.",
+    "RIGHT Channel and MONO Out put The right channel o f the M49 7 operates ina manners i mil ar to the left channel as described above.",
+    "Fort he MONO output, both channels are combined and appear at pins 111M. The signal level of this output iss uc h that, when connected to the summing input of a second M497, it will / produce a n output of +8 dBm, with the left o r right channel o f the first unit operating at +8 dBm.",
+    "Power Supply De coupling An active power supply decQupl ing network consisting of Q1 through Q6 provides isolation between the module and the ±25 volt supply rails. Transistors Q3 and Q6 monitor the supply current. Int he event of excessive power supply demands. such as from component failure o r amplifier overdrive. the current flowing through Ql and Q4 will be limited."
+   ]
+  }
+ ]
+}
