@@ -1,5 +1,5 @@
 # 1978 - M497 - wbsps - module - m497 dual acn master module_small.jpg
-Wiki page: [M497](../../../../PAGES/M497.md)
+Wiki page: [M497](../)
 
 
 - **Year:** 1978 (module estimate (manual_issue))

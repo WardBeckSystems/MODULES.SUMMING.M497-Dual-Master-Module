@@ -1,5 +1,5 @@
 # 19xx - 497-02-003 - DUAL MASTER MODULE SCHEMATIC - DRN DS - ENG PA - ISS 2.jpg
-Wiki page: [M497](../../../../PAGES/M497.md)
+Wiki page: [M497](../)
 
 
 - **Year:** unknown (title block (read by eye))

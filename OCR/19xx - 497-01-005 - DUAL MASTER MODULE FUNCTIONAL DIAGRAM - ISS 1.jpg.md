@@ -1,5 +1,5 @@
 # 19xx - 497-01-005 - DUAL MASTER MODULE FUNCTIONAL DIAGRAM - ISS 1.jpg
-Wiki page: [M497](../../../../PAGES/M497.md)
+Wiki page: [M497](../)
 
 
 - **Year:** unknown (title block (read by eye))

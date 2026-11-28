@@ -1,5 +1,5 @@
 # 1978 - M497 - Dual-Master-Module (2).pdf
-Wiki page: [M497](../../../../PAGES/M497.md)
+Wiki page: [M497](../)
 
 
 - **Year:** 1978 (found in this file: "MANUAL ISSUE #2 I ps OC T. 1978")

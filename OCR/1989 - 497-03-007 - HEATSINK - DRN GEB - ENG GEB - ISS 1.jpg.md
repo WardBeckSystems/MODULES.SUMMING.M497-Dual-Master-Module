@@ -1,5 +1,5 @@
 # 1989 - 497-03-007 - HEATSINK - DRN GEB - ENG GEB - ISS 1.jpg
-Wiki page: [M497](../../../../PAGES/M497.md)
+Wiki page: [M497](../)
 
 
 - **Year:** 1989 (title block date)
